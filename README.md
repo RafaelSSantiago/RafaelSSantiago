@@ -2,7 +2,6 @@
 
 <p align="left"> 
   Olá, meu nome é Rafael <strong>Desenvolvedor Front-end</strong>.<br>
-  No momento eu apenas estudo e desenvolvo projetos pessoais, enquanto busco por uma colocação no mercado.
 </p>
 
 <p align="left">
