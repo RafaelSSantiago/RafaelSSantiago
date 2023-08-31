@@ -22,7 +22,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
-[![Angular Icon](https://material.angular.io/assets/icons/svg/home.svg?height=30&width=30)](https://angular.io/docs/ts/latest/guide/quickstart.html)
 <img src="https://i.ibb.co/ctcXZyK/nestjs-logo-icon-169927.png" alt="nestjs"  width="60" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"  width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"  width="30" height="30"/> 
