@@ -7,7 +7,6 @@
     <img align="center" src="https://i.ibb.co/6DVQrFW/gmail-icon.png" alt="E-mail" height="20" width="20" />
   </a>&nbsp;&nbsp;&nbsp;
   
-  <img align="right" alt="GIF" src="https://i.ibb.co/94gG3Jg/1616084522477.gif" width="400"/>  
  
  #### I'm a Fullstack development, collaborating with high-impact solutions around the world.
   #### Passionate about technology and coffee. 
