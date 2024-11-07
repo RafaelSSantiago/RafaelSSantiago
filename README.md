@@ -8,9 +8,7 @@
   </a>&nbsp;&nbsp;&nbsp;
   
  
- #### I'm a Fullstack development, collaborating with high-impact solutions around the world.
-  #### Passionate about technology and coffee. 
-  
+ #### I'm a Fullstack development, collaborating with high-impact solutions around the world.  
 </section>
   
   
